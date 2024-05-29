@@ -1,0 +1,17 @@
+{
+    "short_name": "OpenRobo Companion",
+    "name": "capstone-openrobo",
+    "description": "OpenRobo can now be controlled from your phone!",
+    "background_color": "#2d2d2d",
+    "theme_color": "#2d2d2d",
+    "start_url": "/",
+    "scope": "/",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "logo_512.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ]
+  }
